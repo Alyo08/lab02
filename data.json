@@ -1,0 +1,150 @@
+{
+    "chart_title": "NFL Wide Receivers: Yards, Receptions, Touchdowns, and Fantasy Points",
+    "data_points": [
+        {
+            "label": "Jaxon Smith Njigba",
+            "Game": 1,
+	    "Yards": 122,
+            "Receptions": 8,
+	    "Touchdowns": 1,
+	    "Fantasy Points": 27.2
+        },
+        {
+            "label": "Jaxon Smith Njigba",
+            "Game": 2,
+	    "Yards": 155,
+            "Receptions": 9,
+	    "Touchdowns": 3,
+	    "Fantasy Points": 43.5
+        },
+        {
+            "label": "Jaxon Smith Njigba",
+            "Game": 3,
+	    "Yards": 128,
+            "Receptions": 10,
+	    "Touchdowns": 2,
+	    "Fantasy Points": 36.3
+        },
+        {
+            "label": "Jaxon Smith Njigba",
+            "Game": 4,
+	    "Yards": 76,
+            "Receptions": 5,
+	    "Touchdowns": 0,
+	    "Fantasy Points": 12.6
+        },
+        {
+            "label": "Jaxon Smith Njigba",
+            "Game": 5,
+	    "Yards": 102,
+            "Receptions": 5,
+	    "Touchdowns": 1,
+	    "Fantasy Points": 23.8
+        },
+        {
+            "label": "Jaxon Smith Njigba",
+            "Game": 6,
+	    "Yards": 134,
+            "Receptions": 12,
+	    "Touchdowns": 0,
+	    "Fantasy Points": 26.4
+        },
+        {
+            "label": "Ceedee Lamb",
+            "Game": 1,
+	    "Yards": 44,
+            "Receptions": 5,
+	    "Touchdowns": 1,
+	    "Fantasy Points": 15.4
+        },
+        {
+            "label": "Ceedee Lamb",
+            "Game": 2,
+	    "Yards": 153,
+            "Receptions": 8,
+	    "Touchdowns": 2,
+	    "Fantasy Points": 36.3
+        },
+        {
+            "label": "Ceedee Lamb",
+            "Game": 3,
+	    "Yards": 112,
+            "Receptions": 7,
+	    "Touchdowns": 0,
+	    "Fantasy Points": 21.2
+        },
+        {
+            "label": "Ceedee Lamb",
+            "Game": 4,
+	    "Yards": 189,
+            "Receptions": 17,
+	    "Touchdowns": 1,
+	    "Fantasy Points": 42.3
+        },
+        {
+            "label": "Ceedee Lamb",
+            "Game": 5,
+	    "Yards": 9,
+            "Receptions": 2,
+	    "Touchdowns": 0,
+	    "Fantasy Points": 2.9
+        },
+        {
+            "label": "Ceedee Lamb",
+            "Game": 6,
+	    "Yards": 70,
+            "Receptions": 9,
+	    "Touchdowns": 0,
+	    "Fantasy Points": 16.0
+        },
+        {
+            "label": "Christian Watson",
+            "Game": 1,
+	    "Yards": 147,
+            "Receptions": 6,
+	    "Touchdowns": 2,
+	    "Fantasy Points": 33.7
+        },
+        {
+            "label": "Christian Watson",
+            "Game": 2,
+	    "Yards": 41,
+            "Receptions": 4,
+	    "Touchdowns": 1,
+	    "Fantasy Points": 14.1
+        },
+        {
+            "label": "Christian Watson",
+            "Game": 3,
+	    "Yards": 96,
+            "Receptions": 7,
+	    "Touchdowns": 1,
+	    "Fantasy Points": 22.6
+
+        },
+        {
+            "label": "Christian Watson",
+            "Game": 4,
+	    "Yards": 47,
+            "Receptions": 3,
+	    "Touchdowns": 0,
+	    "Fantasy Points": 7.7
+        },
+        {
+            "label": "Christian Watson",
+            "Game": 5,
+	    "Yards": 143,
+            "Receptions": 6,
+	    "Touchdowns": 2,
+	    "Fantasy Points": 33.3
+        },
+        {
+            "label": "Christian Watson",
+            "Game": 6,
+	    "Yards": 64,
+            "Receptions": 3,
+	    "Touchdowns": 0,
+	    "Fantasy Points": 9.40
+        }
+    ]
+}
